@@ -18,14 +18,14 @@
   },
   "adminBot": [
     "61577040643519",
-    ""
+    "61573002447775"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Nova",
+  "nickNameBot": "Messandra Ai",
   "prefix": "/",
   "database": {
     "type": "sqlite",
